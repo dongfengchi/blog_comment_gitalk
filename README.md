@@ -1,2 +1,2 @@
 # blog_comment_gittalk
-comment repository for my bloy
+comment repository for my blog
